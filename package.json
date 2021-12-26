@@ -30,5 +30,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/daveroverts/semantic-release-test.git"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
