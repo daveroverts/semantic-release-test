@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/daveroverts/semantic-release-test/compare/v2.0.0...v2.1.0) (2021-12-27)
+
+
+### Features
+
+* **git:** Add cz-commitlint ([f6bd3e3](https://github.com/daveroverts/semantic-release-test/commit/f6bd3e311aa05e0e0b943bbc29df3a45d2e24021))
+
 # [2.0.0](https://github.com/daveroverts/semantic-release-test/compare/v1.1.0...v2.0.0) (2021-12-27)
 
 
