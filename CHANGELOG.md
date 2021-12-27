@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/daveroverts/semantic-release-test/compare/v1.0.0...v1.0.1) (2021-12-27)
+
+
+### Bug Fixes
+
+* **docs:** move CHANGELOG.md to root folder ([b714901](https://github.com/daveroverts/semantic-release-test/commit/b7149010b1b68aa0a37a9533f9d09f4c2dc10fcb))
+
 # 1.0.0 (2021-12-27)
 
 
