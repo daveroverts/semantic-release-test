@@ -1,3 +1,10 @@
+## [3.0.3](https://github.com/daveroverts/semantic-release-test/compare/v3.0.2...v3.0.3) (2022-02-18)
+
+
+### Bug Fixes
+
+* **index.js:** fix title ([26a0ca0](https://github.com/daveroverts/semantic-release-test/commit/26a0ca085fc66cd90ea35397140a65a9062ebffe))
+
 ## [3.0.2](https://github.com/daveroverts/semantic-release-test/compare/v3.0.1...v3.0.2) (2022-02-18)
 
 
