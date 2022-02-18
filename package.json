@@ -33,7 +33,7 @@
       "path": "@commitlint/cz-commitlint"
     }
   },
-  "version": "3.0.0",
+  "version": "2.2.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/daveroverts/semantic-release-test.git"

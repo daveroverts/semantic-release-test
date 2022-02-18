@@ -1,14 +1,9 @@
-# [3.0.0](https://github.com/daveroverts/semantic-release-test/compare/v2.2.0...v3.0.0) (2022-02-18)
+## [2.2.1](https://github.com/daveroverts/semantic-release-test/compare/v2.2.0...v2.2.1) (2022-02-18)
 
 
-### Features
+### Bug Fixes
 
-* **README.md:** change commitizen url to start with https ([84137ae](https://github.com/daveroverts/semantic-release-test/commit/84137aeef4de9cc8540c83bec587f217b074eb71))
-
-
-### BREAKING CHANGES
-
-* **README.md:** URL changed
+* **next.config.js:** disable reactStrictMode ([3e04e2e](https://github.com/daveroverts/semantic-release-test/commit/3e04e2e651b0f8bc0d41ea0b76e91d9c504beb8c))
 
 # [2.2.0](https://github.com/daveroverts/semantic-release-test/compare/v2.1.0...v2.2.0) (2022-02-18)
 
