@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/daveroverts/semantic-release-test/compare/v2.1.0...v2.2.0) (2022-02-18)
+
+
+### Features
+
+* **package.json:** add more branches ([8ad2231](https://github.com/daveroverts/semantic-release-test/commit/8ad2231810cfa5b48c0395c40e6de7d237604a30))
+
 # [2.1.0](https://github.com/daveroverts/semantic-release-test/compare/v2.0.0...v2.1.0) (2021-12-27)
 
 
