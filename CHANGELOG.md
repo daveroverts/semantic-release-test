@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/daveroverts/semantic-release-test/compare/v2.2.0...v3.0.0) (2022-02-18)
+
+
+### Features
+
+* **README.md:** change commitizen url to start with https ([84137ae](https://github.com/daveroverts/semantic-release-test/commit/84137aeef4de9cc8540c83bec587f217b074eb71))
+
+
+### BREAKING CHANGES
+
+* **README.md:** URL changed
+
 # [2.2.0](https://github.com/daveroverts/semantic-release-test/compare/v2.1.0...v2.2.0) (2022-02-18)
 
 
