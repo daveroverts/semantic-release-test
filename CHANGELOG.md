@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/daveroverts/semantic-release-test/compare/v4.0.1...v4.1.0) (2022-02-18)
+
+
+### Features
+
+* **index.js:** change title ([aae922a](https://github.com/daveroverts/semantic-release-test/commit/aae922abb7694efd5753afc845691aa7c91a2722))
+
 ## [4.0.1](https://github.com/daveroverts/semantic-release-test/compare/v4.0.0...v4.0.1) (2022-02-18)
 
 
