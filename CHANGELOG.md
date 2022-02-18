@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/daveroverts/semantic-release-test/compare/v3.0.1...v4.0.0) (2022-02-18)
+
+
+### Features
+
+* **README.md:** some breaking change ([412cc5f](https://github.com/daveroverts/semantic-release-test/commit/412cc5f26a93c18087a9987b9df1fda3aa59ff06))
+
+
+### BREAKING CHANGES
+
+* **README.md:** URL of commitizen badge changed back to http
+
 ## [3.0.1](https://github.com/daveroverts/semantic-release-test/compare/v3.0.0...v3.0.1) (2022-02-18)
 
 
