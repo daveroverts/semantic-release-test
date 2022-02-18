@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/daveroverts/semantic-release-test/compare/v3.0.0...v3.0.1) (2022-02-18)
+
+
+### Bug Fixes
+
+* **next.config.js:** disable reactStrictMode ([3e04e2e](https://github.com/daveroverts/semantic-release-test/commit/3e04e2e651b0f8bc0d41ea0b76e91d9c504beb8c))
+
 ## [2.2.1](https://github.com/daveroverts/semantic-release-test/compare/v2.2.0...v2.2.1) (2022-02-18)
 
 
