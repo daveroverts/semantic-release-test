@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/daveroverts/semantic-release-test/compare/v4.1.0...v4.2.0) (2022-02-23)
+
+
+### Features
+
+* add sentry ([d4270ae](https://github.com/daveroverts/semantic-release-test/commit/d4270ae9b7994f4e0032b88bcd2980e497ac5428))
+
 # [4.1.0](https://github.com/daveroverts/semantic-release-test/compare/v4.0.1...v4.1.0) (2022-02-18)
 
 
