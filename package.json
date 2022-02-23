@@ -11,7 +11,6 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@sentry/nextjs": "^6.17.9",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"
@@ -20,7 +19,6 @@
     "@commitlint/cli": "^16.0.0",
     "@commitlint/config-conventional": "^16.0.0",
     "@commitlint/cz-commitlint": "^16.0.0",
-    "@eclass/semantic-release-sentry-releases": "^3.0.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.2.4",
@@ -74,8 +72,7 @@
             "package.json"
           ]
         }
-      ],
-      "@eclass/semantic-release-sentry-releases"
+      ]
     ]
   }
 }
