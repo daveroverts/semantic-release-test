@@ -49,6 +49,12 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
+
+          <button type="button" onClick={() => {
+            throw new Error("Sentry Frontend Error");
+          }}>
+            Throw error
+          </button>
         </div>
       </main>
 
